@@ -1,3 +1,4 @@
+<img src="https://github.com/Qreuff/Qreuff/blob/main/1.png?raw=true" width="300" height="200" />
 ![Описание изображения](https://github.com/Qreuff/Qreuff/blob/main/1.png?raw=true)
 ![Описание GIF](https://github.com/Qreuff/Qreuff/blob/main/Qreuff.gif?raw=true)
 

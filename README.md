@@ -1,6 +1,7 @@
-<img src="https://github.com/Qreuff/Qreuff/blob/main/1.png?raw=true" width="300" height="200" />
-
-![Описание GIF](https://github.com/Qreuff/Qreuff/blob/main/Qreuff.gif?raw=true)
+<div style="display: flex;">
+    <img src="https://github.com/Qreuff/Qreuff/blob/main/1.png?raw=true" width="300" />
+    <img src="https://github.com/Qreuff/Qreuff/blob/main/Qreuff.gif?raw=true" width="300" />
+</div>
 
 ###
 

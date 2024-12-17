@@ -1,4 +1,4 @@
-![Описание изображения](https://github.com/Qreuff/Qreuff/blob/main/Qreuff.gif?raw=true)
+![Описание изображения](https://github.com/Qreuff/Qreuff/blob/main/1.png?raw=true)
 ![Описание GIF](https://github.com/Qreuff/Qreuff/blob/main/Qreuff.gif?raw=true)
 
 ###

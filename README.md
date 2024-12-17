@@ -12,3 +12,7 @@
 </div>
 
 ###
+<div align="center">
+  <p style="font-size: 72px; margin: 0;">Profile views:</p>
+  <img src="https://profile-counter.glitch.me/qreuff/count.svg?" />
+</div>

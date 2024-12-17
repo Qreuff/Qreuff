@@ -1,5 +1,5 @@
 <div style="display: flex;">
-    <img src="https://github.com/Qreuff/Qreuff/blob/main/krest.png?raw=true" width="150" />
+    <img src="https://github.com/Qreuff/Qreuff/blob/main/krest.png?raw=true" width="100" />
     <img src="https://github.com/Qreuff/Qreuff/blob/main/Qreuff.gif?raw=true" width="300" />
 </div>
 

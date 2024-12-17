@@ -1,4 +1,4 @@
-![my_nickmane](assets/qreuff.gif)
+![Описание GIF](https://github.com/Qreuff/Qreuff/blob/main/Qreuff.gif?raw=true)
 
 ###
 
